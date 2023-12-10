@@ -1,0 +1,84 @@
+body {
+    background-color: rgb(20, 20, 20);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+p.name {
+    color: rgb(180, 180, 180);
+    padding-left: 0px;
+    padding-top: 30vh;
+    text-align: center;
+    font-size: 30px;
+    /*animation-name: example;
+    animation-duration: 1.6s;*/
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    padding-left: 0px;
+    padding-top: 0px;
+    position: relative;
+    text-align: center;
+    /*animation-name: example;
+    animation-duration: 1.6s;*/
+}
+
+a {
+    color: rgb(146, 28, 64);
+    text-decoration-line: underline;
+    text-decoration-color: rgb(146, 28, 64);
+}
+
+img {
+    border-radius: 5px;
+    margin: auto;
+    display: block;
+    width: 15%;
+    /*animation-name: example;
+    animation-duration: 1.6s;*/
+}
+
+/*@keyframes example {
+    0% {
+        left:-10vw;
+        top:0px;
+        opacity: 0;
+    }
+    100% {
+        left:0;
+        top:-2px;
+        opacity: 1;
+    }
+}
+
+@keyframes anim {
+    0%   {left:0px; top: 10px;}
+    50% {left:0px; top:-10px;}
+    100%   {left:0px; top: 10px;}
+}*/
+
+footer {
+    background-color: rgba(26,26,26);
+    /*position: fixed;*/
+    color: rgb(25, 25, 65, 1.0);
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+}
+
+footer > p {
+    height: 40px;
+
+    text-align: center;
+    padding-left: 0px;
+    padding-top: 0px;
+
+    font-size: 20px;
+    line-height: 1
+}
