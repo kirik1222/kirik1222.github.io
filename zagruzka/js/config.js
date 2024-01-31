@@ -27,8 +27,8 @@ Config.enableAnnouncements = true;
  * only works if enableAnnouncements = true
  */
 Config.announceMessages = [
-  "uzelezz крутой",
-  "Салат лучший",
+  "Kimano33",
+  "Кирик крутой",
   "Кирик лучший"
 ];
 
