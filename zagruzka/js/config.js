@@ -29,7 +29,11 @@ Config.enableAnnouncements = true;
 Config.announceMessages = [
   "Kimano33",
   "Кирик крутой",
-  "Кирик лучший"
+  "Кирик лучший",
+  "Сидед чмо",
+  "Kirdead",
+  "Sidead чмо",
+  "Обожаю Lemon'a"
 ];
 
 /**
