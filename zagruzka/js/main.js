@@ -119,12 +119,7 @@ function loadAll() {
 }
 
 var images = [
-            "https://cdn.discordapp.com/attachments/769967970943500318/1180791232767741972/image.png?ex=657eb487&is=656c3f87&hm=253e0a5b7b35cddb97564c057a892da50d6c9957a2c944ae37831811956d1e29&",
-            // "https://media.tenor.com/xoTcPL3Jzm8AAAAd/gachi.gif",
-            "https://media.discordapp.net/attachments/769967970943500318/1180803068896489563/20231203115315_1.jpg?ex=657ebf8d&is=656c4a8d&hm=4ae5ada4377a80bfa6c04de3f86eb4238b1ddb11bfb5d354442062f723f5b2cf&=&format=webp&width=1336&height=768",
-            "https://media.discordapp.net/attachments/769967970943500318/1180803069622095882/20231203115820_1.jpg?ex=657ebf8e&is=656c4a8e&hm=70819ae99f06a3697756f73e962a9483a5743df846c254819a364545a4176eec&=&format=webp&width=1336&height=768",
-            "https://media.discordapp.net/attachments/769967970943500318/1180803069961842738/20231203120206_1.jpg?ex=657ebf8e&is=656c4a8e&hm=cfa5510eba4f0396aa454f673920a141b85f51ca32ef4779c9cee44757bd5172&=&format=webp&width=1336&height=768",
-            "https://media.discordapp.net/attachments/769967970943500318/1180803070754558042/20231203120158_1.jpg?ex=657ebf8e&is=656c4a8e&hm=974caac340045d5ae6b6e6fb477b8de6b788b83574647c4de2199fbadc97096f&=&format=webp&width=1336&height=768",
+            "https://i.imgur.com/0bnL5iO.jpeg"
             // Добавьте дополнительные ссылки сюда
         ];
 
