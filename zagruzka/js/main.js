@@ -119,7 +119,8 @@ function loadAll() {
 }
 
 var images = [
-            "https://imgur.com/I0SOOhg"
+            "https://imgur.com/I0SOOhg",
+            "https://imgur.com/RHfX4wB"
             // Добавьте дополнительные ссылки сюда--------------------------------------------
         ];
 
