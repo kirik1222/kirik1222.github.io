@@ -120,7 +120,9 @@ function loadAll() {
 
 var images = [
             "https://i.imgur.com/RHfX4wB.gif",
-            "https://i.imgur.com/I0SOOhg.gif"
+            "https://i.imgur.com/I0SOOhg.gif",
+            "https://i.imgur.com/Bmk18Iy.png",
+            "https://i.imgur.com/yW3SqJJ.jpeg"
             // Добавьте дополнительные ссылки сюда--------------------------------------------
         ];
 
