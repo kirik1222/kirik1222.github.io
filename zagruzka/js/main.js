@@ -122,7 +122,9 @@ var images = [
             "https://i.imgur.com/RHfX4wB.gif",
             "https://i.imgur.com/I0SOOhg.gif",
             "https://i.imgur.com/Bmk18Iy.png",
-            "https://i.imgur.com/yW3SqJJ.jpeg"
+            "https://i.imgur.com/If8b5o8.png",
+            "https://i.imgur.com/MMgHqRY.jpeg",
+            "https://i.imgur.com/If8b5o8.png"
             // Добавьте дополнительные ссылки сюда--------------------------------------------
         ];
 
