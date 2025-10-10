@@ -11,14 +11,16 @@ var playerSteamID = "Loading...";
 
 // советы, остальные сам напишешь а то мне лень.
 var tips = [
-    "Press W to walk",
-    "Press esc and then exit to exit.",
-    "Если вы это видите, то кирик далбоеб и не поменял советы...",
-    "If you're in Spectators, press F to open the karma menu.",
     "Enter 'fake' in the console to ragdoll",
-    "bind g fake",
-    "enter kill in the console",
-    "press F1 to open qmenu."
+    "ZCity 08.08.2024-1.10.2025 🕯️",
+    "Press F1 to open spawnmenu.",
+    "Type 'suicide' in the console to put a gun to your head.",
+    "Hold right-click to place a block if you have a melee weapon.",
+    "PHARAOH is a cool rapper.",
+    "kirik1222 reopened Z-Box just like he once reopened Homic-Box.",
+    "Ch3cha is a cool guy.",
+    "А вы знали что я незнаю что уже сюда написать...",
+    "Чето долго грузит да?",
 ];
 
 var currentTipIndex = 0;
